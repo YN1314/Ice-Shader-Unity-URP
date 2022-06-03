@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Ice Example.unity
+    path: Assets/Scenes/Ice Ground Example.unity
     guid: aeee70e2a0af5334b85c811e2bc97943
   m_configObjects: {}
