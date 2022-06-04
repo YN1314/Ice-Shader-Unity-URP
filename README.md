@@ -11,7 +11,7 @@ The more samples the shader does, the slower it runs. So be careful with *Sample
 
 ## Important Notes
 ### Compatibility
-The shader is tested only in Unity 2021, so I cannot guarantee it will work properly in earlier versions of Unity.
+The shader is tested only in **Unity 2021** and only with **URP**, so I cannot guarantee it will work properly in earlier versions of Unity or different render pipelines.
 ### URP Settings
 Please make sure **Depth Texture** is enabled. Otherwise you will not be able to see objects below the ice.
 
