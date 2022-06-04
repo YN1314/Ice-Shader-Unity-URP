@@ -10,7 +10,10 @@ In the end, the shader combines the cracks texture and combined color of all sam
 The more samples the shader does, the slower it runs. So be careful with *Samples* setting, especially on mobile devices.
 
 ## Important Notes
+### Compatibility
 The shader is tested only in Unity 2021, so I cannot guarantee it will work properly in earlier versions of Unity.
+### URP Settings
+Please make sure **Depth Texture** is enabled. Otherwise you will not be able to see objects below the ice.
 
 ## Examples
 [YouTube Video](https://www.youtube.com/watch?v=hIEWdt4ALn0)
