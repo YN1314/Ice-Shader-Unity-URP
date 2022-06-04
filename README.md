@@ -9,6 +9,9 @@ In the end, the shader combines the cracks texture and combined color of all sam
 ### Notice
 The more samples the shader does, the slower it runs. So be careful with *Samples* setting, especially on mobile devices.
 
+## Important Notes
+The shader is tested only in Unity 2021, so I cannot guarantee it will work properly in earlier versions of Unity.
+
 ## Examples
 [YouTube Video](https://www.youtube.com/watch?v=hIEWdt4ALn0)
 
