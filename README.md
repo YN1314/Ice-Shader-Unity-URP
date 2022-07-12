@@ -6,7 +6,7 @@ An ice shader with fake cracks depth and depth texture transparency (you can see
 ### How does fake depth work?
 The shader is using a technique called **Parallax Mapping**. Basically, it samples the cracks multiple times. Each sample it slightly changes the UV based on the tangent space's view direction. It gives the illusion of depth.
 
-I know it sounds kind of confusing (*because it is!*), so please check the code in *Assets/Shaders/tojynick/Ice/HLSL/Ice Depth.hlsl* or you can read more about Parallax Mapping [here](https://en.wikipedia.org/wiki/Parallax_mapping).
+I know it sounds kind of confusing (*because it is!*), so please check the code in *Assets/Shaders/Library/HLSL/Ice Depth.hlsl* or you can read more about Parallax Mapping [here](https://en.wikipedia.org/wiki/Parallax_mapping).
 
 ### Notice
 The more samples the shader does, the slower it runs. So be careful with *Samples* setting, especially on mobile devices.
