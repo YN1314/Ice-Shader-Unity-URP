@@ -18,8 +18,6 @@ The shader is tested only in **Unity 2021** and only with **URP**, so I cannot g
 Please make sure **Depth Texture** is enabled. Otherwise you will not be able to see objects below the ice.
 
 ## Examples
-[YouTube Video](https://www.youtube.com/watch?v=hIEWdt4ALn0)
-
 ### GIFs
 ![alt text](https://github.com/tojynick/Ice-Shader/blob/main/Readme%20Resources/Ice%20Ground.gif)
 ![alt text](https://github.com/tojynick/Ice-Shader/blob/main/Readme%20Resources/Ice%20Cubes.gif)
