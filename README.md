@@ -1,6 +1,6 @@
 ![alt text](https://github.com/tojynick/Ice-Shader/blob/main/Readme%20Resources/Thumbnail.jpg)
 
-## Overview
+## Overview ℹ️
 An ice shader with fake cracks depth and depth texture transparency (you can see outlines of other objects below the ice).
 
 ### How does fake depth work?
@@ -11,13 +11,13 @@ I know it sounds kind of confusing (*because it is!*), so please check the code 
 ### Notice
 The more samples the shader does, the slower it runs. So be careful with *Samples* setting, especially on mobile devices.
 
-## Important Notes
+## Important Notes ⚠️
 ### Compatibility
 The shader is tested only in **Unity 2021** and only with **URP**, so I cannot guarantee it will work properly in earlier versions of Unity or different render pipelines.
 ### URP Settings
 Please make sure **Depth Texture** is enabled. Otherwise you will not be able to see objects below the ice.
 
-## Examples
+## Examples 👀
 ### GIFs
 ![alt text](https://github.com/tojynick/Ice-Shader/blob/main/Readme%20Resources/Ice%20Ground.gif)
 ![alt text](https://github.com/tojynick/Ice-Shader/blob/main/Readme%20Resources/Ice%20Cubes.gif)
